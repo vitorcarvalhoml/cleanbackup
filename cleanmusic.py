@@ -27,4 +27,3 @@ class CleanMusic():
 
     def destroy(self):
         pass
-        # destroy object
